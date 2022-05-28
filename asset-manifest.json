@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Phases_app/static/css/main.fc2cd791.css",
+    "main.js": "/Phases_app/static/js/main.a18312f0.js",
+    "index.html": "/Phases_app/index.html",
+    "main.fc2cd791.css.map": "/Phases_app/static/css/main.fc2cd791.css.map",
+    "main.a18312f0.js.map": "/Phases_app/static/js/main.a18312f0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fc2cd791.css",
+    "static/js/main.a18312f0.js"
+  ]
+}
