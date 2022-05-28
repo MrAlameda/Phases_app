@@ -1,9 +1,11 @@
-import './App.css';
+import './styles/index.css';
 import { QuoteBox } from './components/QuoteBox';
 
+
 function App() {
+  
   return (
-    <div className="App">
+    <div className="app">
       <QuoteBox/>
     </div>
   );
